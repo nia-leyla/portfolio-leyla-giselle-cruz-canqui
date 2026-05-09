@@ -49,19 +49,8 @@ Cursando Análise e Desenvolvimento de Sistemas na **Unicid**. Sou apaixonada po
 Abaixo, a organização deste repositório para facilitar a navegação:
  
 - `README.md`: Arquivo de apresentação principal
+- `/Batalha de Modelos & Engenharia de Prompt/`: Pasta contendo a documentação do projeto Batalha de Modelos
+- `/Teachable Machine/`: Pasta contendo a documentação do projeto Teachable Machine
+- `/corrida-do-prompt/`: Pasta contendo a documentação do projeto A Corrida do Prompt
+- `/engenharia reversa/`: Pasta contendo a documentação do projeto Engenharia Reversa
 - `/maquina-genial/`: Pasta contendo a documentação e link do projeto Máquina Genial
-🏗 Estrutura do Repositório
-Abaixo, a organização deste repositório para facilitar a navegação:
- 
-📦 portfolio-leyla-giselle-cruz-canqui
- ┣ 📂 Batalha de Modelos & Engenharia de Prompt/
- ┃ ┗ 📜 http://README.md
- ┣ 📂 Teachable Machine/
- ┃ ┗ 📜 http://README.md
- ┣ 📂 corrida-do-prompt/
- ┃ ┗ 📜 http://README.md
- ┣ 📂 engenharia reversa/
- ┃ ┗ 📜 http://README.md
- ┣ 📂 maquina-genial/
- ┃ ┗ 📜 http://README.md
- ┗ 📜 http://README.md
