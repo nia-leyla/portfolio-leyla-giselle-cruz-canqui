@@ -1,44 +1,40 @@
-## 🏴‍☠️ Carta do Pirata
+# Laboratório de IA: Engenharia de Prompt e Visão Computacional
 
-### 📝 Descrição do Projeto
-Projeto desenvolvido para a disciplina de Inteligência Artificial.  
-A Carta do Pirata é um exercício de engenharia de prompt no Google AI Studio. Através de 5 prompts iterativos, o programa refina uma carta de desculpas de um pirata para um rei, evoluindo de um pedido simples até uma versão poética, com metáforas marítimas e tom de arrependimento profundo.
+Este repositório contém dois projetos práticos desenvolvidos para a disciplina de Inteligência Artificial, focados no uso avançado do **Google AI Studio** e do modelo **Gemini**.
 
-### 🚀 Tecnologias Utilizadas
-- **Ferramenta**: Google AI Studio
-- **Tecnologia**: Inteligência Artificial Generativa (Gemini)
+---
 
-### 📊 Resultados e Aprendizados
-- **Resultado**: Sequência de 5 versões de texto que mostram a evolução da escrita criativa da IA a partir de refinamentos de prompt
-- **Aprendi**: A importância da especificidade nos prompts, como usar metáforas e tom para guiar o modelo, e como iterar para chegar num resultado literário
+## 🏴‍☠️ Projeto 1: Carta do Pirata
+Este projeto consistiu num exercício de **Engenharia de Prompt** focado na evolução da escrita criativa e ajuste de tom.
 
-### 🔗 Exemplo de Evolução dos Prompts
-1. Prompt inicial: "Escreva uma carta de desculpas de um pirata para um rei"
-2. Refinamento 1: "Adicione arrependimento e menção ao mar"
-3. Refinamento 2: "Use metáforas náuticas como 'tempestade' e 'âncora'"
-4. Refinamento 3: "Tom mais dramático e poético"
-5. Final: "Estilo barroco, com vocabulário do século XVII"
+- **Objetivo:** Criar uma carta de desculpas de um pirata para um rei através de iterações sucessivas.
+- **Evolução:** 1. Pedido simples de clemência.
+  2. Adição de formalidade e detalhes de saques.
+  3. Estilo literário com metáforas marítimas.
+  4. Reforço poético e peso da culpa.
+  5. **Versão Final:** Uma missiva solene para ser lida em tribunal, tratando o pirata como um "navegante que perdeu o norte".
+- **Ficheiro:** [Visualizar Carta do Pirata](./Carta+do+pirata.pdf)
 
+---
 
+## 🚀 Projeto 2: Astronauta Barroco em Marte
+Um estudo sobre a **geração de imagens por IA** e como o contexto geográfico e cultural influencia o resultado visual.
 
+- **Metodologia:** Cada iteração da imagem foi analisada com base nas **Taxonomias de Bloom e Fink**.
+- **Iterações de Imagem:**
+  - **Base:** Astronauta em estilo barroco a tocar violoncelo em Marte.
+  - **Elemento Natural:** Adição de um vulcão detalhado com lava e fumaça ao fundo.
+  - **Identidade:** Inclusão do símbolo do Corinthians (braço esquerdo) e bandeira do Brasil (tremulando à direita).
+  - **Personalidade:** Substituição da viseira pelo rosto do Cristiano Ronaldo.
+- **Aprendizado:** Observou-se como a mudança de uma única palavra pode alterar significativamente a perceção e o resultado gerado pela IA.
+- **Ficheiro:** [Visualizar Trabalho de Imagens](./Trabalho_IA.pdf)
 
-## 🚀 Astronauta Barroco
+---
 
-### 📝 Descrição do Projeto
-Projeto desenvolvido para a disciplina de Inteligência Artificial.  
-O Astronauta Barroco é um estudo de geração de imagens com IA no Google AI Studio. O objetivo foi criar e modificar progressivamente a imagem de "um astronauta estilo barroco tocando violoncelo em Marte", adicionando elementos como o símbolo do Corinthians, bandeira do Brasil e o rosto do Cristiano Ronaldo. Cada etapa foi analisada com a Taxonomia de Bloom e de Fink.
+## 🛠️ Tecnologias Utilizadas
+- **IA Generativa:** Google AI Studio (Gemini).
+- **Frameworks de Análise:** Taxonomia de Bloom e Taxonomia de Fink.
+- **Documentação:** PDF e Markdown.
 
-### 🚀 Tecnologias Utilizadas
-- **Ferramenta**: Google AI Studio
-- **Tecnologia**: Inteligência Artificial Generativa para Imagens (Gemini)
-
-### 📊 Resultados e Aprendizados
-- **Resultado**: Série de 5 imagens geradas por IA, mostrando como o modelo responde a adição de detalhes e mudanças de contexto geográfico/cultural
-- **Aprendi**: A criar prompts visuais complexos, analisar a fidelidade da IA com as taxonomias de Bloom e Fink, e entender como uma única palavra pode alterar completamente o resultado
-
-### 🔗 Exemplo de Evolução dos Prompts
-1. Base: "Astronauta estilo barroco tocando violoncelo em Marte, pintura a óleo"
-2. V2: "Adicione o símbolo do Corinthians no traje do astronauta"
-3. V3: "Inclua uma bandeira do Brasil fincada no solo marciano"
-4. V4: "Substitua o rosto do astronauta pelo do Cristiano Ronaldo"
-5. V5: "Iluminação dramática de Rembrandt, com poeira vermelha ao fundo"
+---
+*Desenvolvido como parte do currículo de estudos em Inteligência Artificial.*
