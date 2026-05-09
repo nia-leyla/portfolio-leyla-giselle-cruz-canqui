@@ -1,25 +1,31 @@
-# 🎬 Nome do Seu Projeto Aqui
- 
-## 📝 Descrição do Projeto
-Explica em 2-3 linhas o que o projeto faz. Qual problema ele resolve?
-Foi desenvolvido pra disciplina de **[Nome da Matéria] (2024.2)**.
- 
-*Figura 1: Print da tela principal do sistema.*
- 
-## 🚀 Tecnologias Utilizadas
-* **Linguagem:** Python 3.10 / Java / SQL
-* **Bibliotecas:** Pandas, Scikit-learn
-* **Ferramentas:** VS Code, MySQL Workbench
- 
-## 📊 Resultados e Aprendizados
-* **Resultado 1:** O sistema cadastra 1000 produtos em 2s
-* **Resultado 2:** Acurácia de 85% no modelo
-* **Aprendizado:** Aprendi a normalizar banco de dados 3FN
- 
-## 🔧 Como Executar
-1. Clone o repositório
-2. Instale as dependências: `pip install -r requirements.txt`
-3. Execute: `python main.py`
+# Leila Giselle Cruz
+> Estudante de Análise e Desenvolvimento de Sistemas
  
 ---
-[Voltar ao início](../)
+ 
+### 📫 Contato & Redes Sociais
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: leylagiselle13@gmail.com@gmail.com)
+ 
+---
+ 
+### 👨‍💻 Sobre
+Cursando Análise e Desenvolvimento de Sistemas na Unicid . Sou apaixonada por resolver problemas através da tecnologia e possuo foco em Desenvolvimento de Software.
+ 
+* **Habilidades Técnicas:** Python
+* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico
+ 
+---
+ 
+### 🛠 Minhas Ferramentas Favoritas
+ 
+#### 💻 Linguagens e Tecnologias
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ 
+---
+ 
+### 📂 Portfólio de Projetos
+Em construção. Meus projetos acadêmicos aparecerão aqui em breve.
+ 
+---
+ 
+[Voltar ao início](https://github.com/nia-leyla/nia-leyla)
