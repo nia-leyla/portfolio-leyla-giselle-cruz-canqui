@@ -46,7 +46,7 @@ Cursando Análise e Desenvolvimento de Sistemas na **Unicid**. Sou apaixonada po
 | **Exp. 05: Clone ao MVP+** | Transformação de um clone funcional em Produto Mínimo Viável com novas features | Gemini, Google AI Studio | 🔄 Em Andamento | [Em Breve](#) |
 | **Exp. 06: IA com Bubble.io** | Construção de aplicação No-Code com integração de IA usando Bubble.io | Bubble.io, API Gemini | 🔄 Em Andamento | [Em Breve](#) |
 | **Exp. 07: Portfólio GitHub** | Construção deste portfólio profissional documentando todos os projetos da disciplina | GitHub, Markdown, Git | ✅ Concluído | [Você está aqui](https://github.com/nia-leyla/portfolio-leyla-giselle-cruz-canqui) |
- 
+
 ---
  
 ### 🏗 Estrutura do Repositório
