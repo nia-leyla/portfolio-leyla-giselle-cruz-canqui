@@ -13,7 +13,8 @@ Este projeto consistiu num exercício de **Engenharia de Prompt** focado na evol
   3. Estilo literário com metáforas marítimas.
   4. Reforço poético e peso da culpa.
   5. **Versão Final:** Uma missiva solene para ser lida em tribunal, tratando o pirata como um "navegante que perdeu o norte".
-- **Ficheiro:** [Visualizar Carta do Pirata](./Carta+do+pirata.pdf)
+- **Ficheiro:**(./[Carta do pirata.docx](https://github.com/user-attachments/files/27552083/Carta.do.pirata.docx)
+)
 
 ---
 
