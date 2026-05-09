@@ -30,7 +30,16 @@ Um estudo sobre a **geração de imagens por IA** e como o contexto geográfico 
 - **Aprendizado:** Observou-se como a mudança de uma única palavra pode alterar significativamente a perceção e o resultado gerado pela IA.
 - **Ficheiro:**(./[Trabalho_IA.docx](https://github.com/user-attachments/files/27552115/Trabalho_IA.docx)
 )
+## 📂 Documentação e Arquivos Originais
 
+Para visualizar os detalhes técnicos, prompts exatos e as análises das taxonomias, você pode acessar os documentos abaixo:
+
+* [📥 **Baixar: Relatório da Carta do Pirata (PDF)**](./[Carta.do.pirata.docx](https://github.com/user-attachments/files/27552250/Carta.do.pirata.docx)
+)
+* [📥 **Baixar: Estudo do Astronauta em Marte (PDF)**](./[Trabalho_IA.docx](https://github.com/user-attachments/files/27552252/Trabalho_IA.docx)
+)
+
+> **Dica:** Se você estiver visualizando pelo computador, ao clicar nos links acima, o GitHub abrirá o visualizador de PDF padrão. Para baixar, clique com o botão direito e selecione "Salvar link como...".
 ---
 
 ## 🛠️ Tecnologias Utilizadas
