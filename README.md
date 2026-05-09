@@ -4,7 +4,7 @@
 ---
  
 ### 📫 Contato & Redes Sociais
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: leylagiselle13@gmail.com@gmail.com)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto: leylagiselle13@gmail.com)
  
 ---
  
@@ -25,6 +25,8 @@ Cursando Análise e Desenvolvimento de Sistemas na Unicid . Sou apaixonada por r
  
 ### 📂 Portfólio de Projetos
 Em construção. Meus projetos acadêmicos aparecerão aqui em breve.
+veja o arquivo com o projeto 
+maquina-genial !
  
 ---
  
