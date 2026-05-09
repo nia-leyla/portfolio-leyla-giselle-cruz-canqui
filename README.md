@@ -9,7 +9,7 @@
 ---
  
 ### 👩‍💻 Sobre
-Cursando Análise e Desenvolvimento de Sistemas na **Unicsul**. Sou apaixonada por resolver problemas através da tecnologia e possuo foco em Desenvolvimento de Software e Inteligência Artificial.
+Cursando Análise e Desenvolvimento de Sistemas na **Unicid**. Sou apaixonada por resolver problemas através da tecnologia e possuo foco em Desenvolvimento de Software e Inteligência Artificial.
  
 * **Habilidades Técnicas:** Python, Google AI Studio, Gemini, Git, GitHub
 * **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico
