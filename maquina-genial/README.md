@@ -7,7 +7,7 @@ A Máquina Genial é um chatbot criado no Google AI Studio que apresenta dilemas
 ## 🚀 Tecnologias Utilizadas
 * **Ferramenta:** Google AI Studio
 * **Tecnologia:** Inteligência Artificial Generativa (Gemini)
-
+ 
 ## 📊 Resultados e Aprendizados
 * **Resultado:** Chatbot interativo que gera cenários de dilemas morais em tempo real
 * **Aprendi:** A criar prompts de IA, estruturar a lógica de conversação e testar o comportamento de modelos de linguagem
