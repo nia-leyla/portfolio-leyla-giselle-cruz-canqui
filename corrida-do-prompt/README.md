@@ -28,7 +28,8 @@ Um estudo sobre a **geração de imagens por IA** e como o contexto geográfico 
   - **Identidade:** Inclusão do símbolo do Corinthians (braço esquerdo) e bandeira do Brasil (tremulando à direita).
   - **Personalidade:** Substituição da viseira pelo rosto do Cristiano Ronaldo.
 - **Aprendizado:** Observou-se como a mudança de uma única palavra pode alterar significativamente a perceção e o resultado gerado pela IA.
-- **Ficheiro:** [Visualizar Trabalho de Imagens](./Trabalho_IA.pdf)
+- **Ficheiro:** [Visualizar Trabalho de Imagens](./[Trabalho_IA.docx](https://github.com/user-attachments/files/27552115/Trabalho_IA.docx)
+)
 
 ---
 
