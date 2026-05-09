@@ -38,14 +38,11 @@ Cursando Análise e Desenvolvimento de Sistemas na **Unicid**. Sou apaixonada po
 #### 🤖 Engenharia de Prompt e Aplicações em IA
 | Projeto | Descrição | Tecnologias | Status | Links |
 | :--- | :--- | :---: | :---: | :---: |
-| **Exp. 01: A Corrida do Prompt** | Competição de prompts otimizados para velocidade e qualidade de resposta da IA | Gemini, Prompt Engineering | ✅ Concluído | [Ver Projeto](./exp-01-corrida-prompt/) |
-| **Exp. 02: Lab. Classificação Visual** | Classificação de imagens usando IA para reconhecimento de padrões visuais | Google AI Studio, Gemini Vision | ✅ Concluído | [Ver Projeto](./exp-02-classificacao-visual/) |
-| **Exp. 03: Batalha de Modelos XML** | Comparação de performance entre modelos usando estruturação XML em prompts | Gemini, XML, Prompt Engineering | ✅ Concluído | [Ver Projeto](./exp-03-batalha-modelos/) |
-| **Exp. 04: Engenharia Reversa** | Reconstrução de chatbot de dilemas morais via análise de interface, sem acesso ao código-fonte | Gemini, Google AI Studio, HTML/CSS/JS | ✅ Concluído | [Código](./maquina-genial/) • [Testar App](https://ai.studio/apps/7812f6b3-1089-4252-94e4-74dbb5abcfe9) |
-| **Exp. 05: Clone ao MVP+** | Transformação de clone funcional em Produto Mínimo Viável com novas features | Gemini, Google AI Studio | ✅ Concluído | [Ver Projeto](./exp-05-clone-mvp/) |
-| **Exp. 06: IA com Bubble.io** | Aplicação No-Code com integração de IA generativa usando Bubble.io | Bubble.io, API Gemini | ✅ Concluído | [Ver Projeto](./exp-06-bubble-ia/) |
-| **Exp. 07: Portfólio GitHub** | Construção deste portfólio profissional documentando todos os projetos da disciplina | GitHub, Markdown, Git | ✅ Concluído | [Você está aqui](https://github.com/nia-leyla/portfolio-leyla-giselle-cruz-canqui) | |
- 
+| **A Corrida do Prompt** | Competição de prompts otimizados para velocidade e qualidade de resposta da IA | Gemini, Prompt Engineering | ✅ Concluído | [Ver Projeto](./corrida-do-prompt/) |
+| **Teachable Machine** | Classificação de imagens utilizando modelos de IA para reconhecimento de padrões visuais | Teachable Machine, Gemini Vision | ✅ Concluído | [Ver Projeto](./Teachable%20Machine/) |
+| **Batalha de Modelos & Engenharia de Prompt** | Comparação de performance entre modelos usando estruturação XML em prompts | Gemini, XML, Prompt Engineering | ✅ Concluído | [Ver Projeto](./Batalha%20de%20Modelos%20%26%20Engenharia%20de%20Prompt/) |
+| **Engenharia Reversa** | Reconstrução de projeto via análise de interface, sem acesso ao código-fonte original | Gemini, Google AI Studio | ✅ Concluído | [Ver Projeto](./engenharia%20reversa/) |
+| **Máquina Genial** | Chatbot interativo que apresenta dilemas morais. Desenvolvido via Engenharia Reversa com IA | Gemini, Google AI Studio, HTML/CSS/JS | ✅ Concluído | [Código](./maquina-genial/) • [Testar App](https://ai.studio/apps/7812f6b3-1089-4252-94e4-74dbb5abcfe9) |
 ---
  
 ### 🏗 Estrutura do Repositório
