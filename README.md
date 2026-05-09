@@ -53,4 +53,4 @@ Abaixo, a organização deste repositório para facilitar a navegação:
 - `/Teachable Machine/`: Pasta contendo a documentação do projeto Teachable Machine
 - `/corrida-do-prompt/`: Pasta contendo a documentação do projeto A Corrida do Prompt
 - `/engenharia reversa/`: Pasta contendo a documentação do projeto Engenharia Reversa
-- `/maquina-genial/`: Pasta contendo a documentação e link do projeto Máquina Genial
+- `/maquina-genial/`: Pasta contendo a documentação e link do projeto Máquina Genial 
