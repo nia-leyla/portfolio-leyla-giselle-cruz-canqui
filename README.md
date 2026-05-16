@@ -6,7 +6,8 @@
 ### 📫 Contato & Redes Sociais
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leyla-giselle-cruz-canqui-0805503a8)  
 [![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leylagiselle13@gmail.com)
- 
+[![Currículo](https://img.shields.io/badge/Currículo-000000?style=for-the-badge&logo=read-the-docs&logoColor=white)](./currículo.pdf)
+
 ---
  
 ### 👩‍💻 Sobre
@@ -38,6 +39,7 @@ Cursando Análise e Desenvolvimento de Sistemas na **Unicid**. Sou apaixonada po
 #### 🤖 Engenharia de Prompt e Aplicações em IA
 | Projeto | Descrição | Tecnologias | Status | Links |
 | :--- | :--- | :---: | :---: | :---: |
+| **bubble.io** | Desenvolvimento de aplicação web utilizando ferramentas No-Code | Bubble.io | 🚀 Em Progresso | [Ver Projeto](./bubble.io/) |
 | **A Corrida do Prompt** | Competição de prompts otimizados para velocidade e qualidade de resposta da IA | Gemini, Prompt Engineering | ✅ Concluído | [Ver Projeto](./corrida-do-prompt/) |
 | **Teachable Machine** | Classificação de imagens utilizando modelos de IA para reconhecimento de padrões visuais | Teachable Machine, Gemini Vision | ✅ Concluído | [Ver Projeto](./Teachable%20Machine/) |
 | **Batalha de Modelos & Engenharia de Prompt** | Comparação de performance entre modelos usando estruturação XML em prompts | Gemini, XML, Prompt Engineering | ✅ Concluído | [Ver Projeto](./Batalha%20de%20Modelos%20%26%20Engenharia%20de%20Prompt/) |
